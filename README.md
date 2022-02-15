@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JudStewart
 - 👀 I’m interested in backend development, specifically in C#.
-- 🌱 I’m currently learning more about Data Structures and Machine Learning through classes at Virginia Tech
+- 🌱 I’m currently learning more about Algorithm Analysis and Software Engineering through classes at Virginia Tech
 - 📫 How to reach me - DM me here, or send me an email!
 
 <!---
